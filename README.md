@@ -14,7 +14,9 @@ In addition to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)'s offici
 # Repos
 You're encouraged to submit PRs for any Issues with the "hacktoberfest" label! These repositories power **PayPal's JavaScript SDK** used by millions of merchants and users.
 
-Here's a list of some of repos with "hacktoberfest" labeled Issues:
+Our JavaScript SDK is powered by repos in kraken-js and paypal GitHub orgs.
+
+Here's a list of repos with "hacktoberfest" labeled Issues:
 
 ## kraken-js
 - https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
@@ -27,7 +29,7 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 - https://github.com/krakenjs/cross-domain-utils ([Issues](https://github.com/krakenjs/cross-domain-utils/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
 
 ## paypal
-Something here
+- https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-js/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
 
 # Rules
 To qualify for the comfy limited-edition PayPal socks:
