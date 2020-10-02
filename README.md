@@ -20,18 +20,18 @@ You're encouraged to submit PRs for any Issues with the "hacktoberfest" label! T
 Here's a list of some of repos with "hacktoberfest" labeled Issues:
 
 ## kraken-js
-- https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/krakenjs/belter ([Issues](https://github.com/krakenjs/belter/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/krakenjs/jsx-pragmatic ([Issues](https://github.com/krakenjs/jsx-pragmatic/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/krakenjs/zalgo-promise ([Issues](https://github.com/krakenjs/zalgo-promise/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/krakenjs/beaver-logger ([Issues](https://github.com/krakenjs/beaver-logger/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/krakenjs/post-robot ([Issues](https://github.com/krakenjs/post-robot/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/krakenjs/grumbler-scripts ([Issues](https://github.com/krakenjs/grumbler-scripts/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/krakenjs/cross-domain-utils ([Issues](https://github.com/krakenjs/cross-domain-utils/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/krakenjs/belter ([Issues](https://github.com/krakenjs/belter/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/krakenjs/jsx-pragmatic ([Issues](https://github.com/krakenjs/jsx-pragmatic/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/krakenjs/zalgo-promise ([Issues](https://github.com/krakenjs/zalgo-promise/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/krakenjs/beaver-logger ([Issues](https://github.com/krakenjs/beaver-logger/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/krakenjs/post-robot ([Issues](https://github.com/krakenjs/post-robot/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/krakenjs/grumbler-scripts ([Issues](https://github.com/krakenjs/grumbler-scripts/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/krakenjs/cross-domain-utils ([Issues](https://github.com/krakenjs/cross-domain-utils/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 
 ## paypal
-- https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-js/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 
 # Rules
 To qualify for the comfy limited-edition PayPal socks:
