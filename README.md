@@ -11,6 +11,10 @@ In addition to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)'s offici
 
 <img src="https://www.thepaypalshop.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fPP00-0337-Group.jpg&maintainAspectRatio=true&maxHeight=600&maxWidth=600" height=300 width=300>
 
+As a special prize, the first contributor will receive a special PayPal safari hat, perfect for your open-source adventures!
+
+<img src="https://www.thepaypalshop.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fPP00-0424-STN.jpg&maintainAspectRatio=true&maxHeight=600&maxWidth=600" height=300 width=300>
+
 # Repos
 You're encouraged to submit PRs for any Issues with the "hacktoberfest" label! These repositories power **PayPal's JavaScript SDK** used by millions of merchants and users.
 
