@@ -19,6 +19,13 @@ You're encouraged to submit PRs for any Issues with the "hacktoberfest" label! T
 
 Here's a list of some of repos with "hacktoberfest" labeled Issues:
 
+## paypal-examples
+- https://github.com/paypal-examples/js-sdk-standard-integration ([Issues](https://github.com/paypal-examples/js-sdk-standard-integration/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+
+## paypal
+- https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+
 ## kraken-js
 - https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 - https://github.com/krakenjs/belter ([Issues](https://github.com/krakenjs/belter/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
@@ -28,13 +35,6 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 - https://github.com/krakenjs/post-robot ([Issues](https://github.com/krakenjs/post-robot/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 - https://github.com/krakenjs/grumbler-scripts ([Issues](https://github.com/krakenjs/grumbler-scripts/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 - https://github.com/krakenjs/cross-domain-utils ([Issues](https://github.com/krakenjs/cross-domain-utils/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-
-## paypal
-- https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-
-## paypal-examples
-- https://github.com/paypal-examples/js-sdk-standard-integration ([Issues](https://github.com/paypal-examples/js-sdk-standard-integration/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 
 # Rules
 To qualify for the comfy limited-edition PayPal socks:
