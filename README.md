@@ -32,8 +32,8 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 - https://github.com/krakenjs/cross-domain-utils ([Issues](https://github.com/krakenjs/cross-domain-utils/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
 
 ## paypal
-- https://github.com/paypal/paypal-checkout-components ([Issues] (https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
-- https://github.com/paypal/paypal-js ([Issues] (https://github.com/paypal/paypal-js/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-js/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
 
 # Rules
 To qualify for the comfy limited-edition PayPal socks:
