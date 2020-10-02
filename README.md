@@ -18,6 +18,11 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 
 ## kraken-js
 - https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/krakenjs/belter ([Issues](https://github.com/krakenjs/belter/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/krakenjs/jsx-pragmatic ([Issues](https://github.com/krakenjs/jsx-pragmatic/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/krakenjs/zalgo-promise ([Issues](https://github.com/krakenjs/zalgo-promise/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/krakenjs/beaver-logger ([Issues](https://github.com/krakenjs/beaver-logger/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
+- https://github.com/krakenjs/post-robot ([Issues](https://github.com/krakenjs/post-robot/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
 
 ## paypal
 Something here
