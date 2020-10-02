@@ -33,6 +33,9 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 - https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 - https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 
+## paypal-examples
+- https://github.com/paypal-examples/js-sdk-standard-integration ([Issues](https://github.com/paypal-examples/js-sdk-standard-integration/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+
 # Rules
 To qualify for the comfy limited-edition PayPal socks:
 
