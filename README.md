@@ -17,7 +17,7 @@ You're encouraged to submit PRs for any Issues with the "hacktoberfest" label! T
 Here's a list of some of repos with "hacktoberfest" labeled Issues:
 
 ## kraken-js
-https://github.com/krakenjs/zoid
+- https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+hacktoberfest))
 
 ## paypal
 Something here
