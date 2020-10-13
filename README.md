@@ -25,6 +25,7 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 ## paypal
 - https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 - https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-js/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
+- https://github.com/paypal/react-paypal-js ([Issues](https://github.com/paypal/react-paypal-js/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 
 ## kraken-js
 - https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
