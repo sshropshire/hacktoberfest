@@ -37,7 +37,7 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 # Rules
 To qualify for PayPal swag and be part of a random drawing for the Timbuk2 Backpack (above):
 
-* You must open one pull request (PR) between October 1-31, 2020.
+* You must open one pull request (PR) between October 1-31, 2021.
 * The PR must be associated with an Issue with a "hacktoberfest" label.
 
 # Other notes
