@@ -34,6 +34,10 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 - https://github.com/krakenjs/grumbler-scripts ([Issues](https://github.com/krakenjs/grumbler-scripts/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 - https://github.com/krakenjs/cross-domain-utils ([Issues](https://github.com/krakenjs/cross-domain-utils/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
 
+## braintree
+- https://github.com/braintree/braintree_ios ([Issues](https://github.com/braintree/braintree_ios/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktober))
+- https://github.com/braintree/braintree-ios-drop-in ([Issues](https://github.com/braintree/braintree-ios-drop-in/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktober))
+
 # Rules
 To qualify for PayPal swag and be part of a random drawing for the Timbuk2 Backpack (above):
 
