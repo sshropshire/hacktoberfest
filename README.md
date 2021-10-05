@@ -37,6 +37,7 @@ Here's a list of some of repos with "hacktoberfest" labeled Issues:
 ## braintree
 - https://github.com/braintree/braintree_ios ([Issues](https://github.com/braintree/braintree_ios/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktober))
 - https://github.com/braintree/braintree-ios-drop-in ([Issues](https://github.com/braintree/braintree-ios-drop-in/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktober))
+- https://github.com/braintree/braintree-android-drop-in ([Issues](https://github.com/braintree/braintree-android-drop-in/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktober))
 
 # Rules
 To qualify for PayPal swag and be part of a random drawing for the Timbuk2 Backpack (above):
